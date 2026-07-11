@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-07-12T00:00:38 IST" name="Default suite" finished-at="2026-07-12T00:00:54 IST" duration-ms="15169">
+    <groups>
+    </groups>
+    <test started-at="2026-07-12T00:00:38 IST" name="Default test" finished-at="2026-07-12T00:00:54 IST" duration-ms="15169">
+      <class name="Tests.ExcelTestDataHandling">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.ExcelTestDataHandling@14cd1699]" started-at="2026-07-12T00:00:40 IST" name="setup" finished-at="2026-07-12T00:00:42 IST" duration-ms="2670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginIntoApplication(java.lang.String,java.lang.String)[pri:0, instance:Tests.ExcelTestDataHandling@14cd1699]" started-at="2026-07-12T00:00:42 IST" name="loginIntoApplication" data-provider="loginTestData" finished-at="2026-07-12T00:00:43 IST" duration-ms="457" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[wrongPass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIntoApplication -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.ExcelTestDataHandling@14cd1699]" started-at="2026-07-12T00:00:43 IST" name="tearDown" finished-at="2026-07-12T00:00:43 IST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.ExcelTestDataHandling@14cd1699]" started-at="2026-07-12T00:00:43 IST" name="setup" finished-at="2026-07-12T00:00:44 IST" duration-ms="1217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginIntoApplication(java.lang.String,java.lang.String)[pri:0, instance:Tests.ExcelTestDataHandling@14cd1699]" started-at="2026-07-12T00:00:44 IST" name="loginIntoApplication" data-provider="loginTestData" finished-at="2026-07-12T00:00:45 IST" duration-ms="928" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[wrongUser]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIntoApplication -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.ExcelTestDataHandling@14cd1699]" started-at="2026-07-12T00:00:45 IST" name="tearDown" finished-at="2026-07-12T00:00:45 IST" duration-ms="345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.ExcelTestDataHandling@14cd1699]" started-at="2026-07-12T00:00:45 IST" name="setup" finished-at="2026-07-12T00:00:47 IST" duration-ms="1429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginIntoApplication(java.lang.String,java.lang.String)[pri:0, instance:Tests.ExcelTestDataHandling@14cd1699]" started-at="2026-07-12T00:00:47 IST" name="loginIntoApplication" data-provider="loginTestData" finished-at="2026-07-12T00:00:47 IST" duration-ms="401" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[wrongUser]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[wrongPass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIntoApplication -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.ExcelTestDataHandling@14cd1699]" started-at="2026-07-12T00:00:47 IST" name="tearDown" finished-at="2026-07-12T00:00:48 IST" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.ExcelTestDataHandling@14cd1699]" started-at="2026-07-12T00:00:48 IST" name="setup" finished-at="2026-07-12T00:00:49 IST" duration-ms="1082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginIntoApplication(java.lang.String,java.lang.String)[pri:0, instance:Tests.ExcelTestDataHandling@14cd1699]" started-at="2026-07-12T00:00:49 IST" name="loginIntoApplication" data-provider="loginTestData" finished-at="2026-07-12T00:00:49 IST" duration-ms="653" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIntoApplication -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.ExcelTestDataHandling@14cd1699]" started-at="2026-07-12T00:00:49 IST" name="tearDown" finished-at="2026-07-12T00:00:50 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.ExcelTestDataHandling@14cd1699]" started-at="2026-07-12T00:00:50 IST" name="setup" finished-at="2026-07-12T00:00:51 IST" duration-ms="1403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginIntoApplication(java.lang.String,java.lang.String)[pri:0, instance:Tests.ExcelTestDataHandling@14cd1699]" started-at="2026-07-12T00:00:51 IST" name="loginIntoApplication" data-provider="loginTestData" finished-at="2026-07-12T00:00:51 IST" duration-ms="378" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIntoApplication -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.ExcelTestDataHandling@14cd1699]" started-at="2026-07-12T00:00:51 IST" name="tearDown" finished-at="2026-07-12T00:00:52 IST" duration-ms="283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.ExcelTestDataHandling@14cd1699]" started-at="2026-07-12T00:00:52 IST" name="setup" finished-at="2026-07-12T00:00:53 IST" duration-ms="998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginIntoApplication(java.lang.String,java.lang.String)[pri:0, instance:Tests.ExcelTestDataHandling@14cd1699]" started-at="2026-07-12T00:00:53 IST" name="loginIntoApplication" data-provider="loginTestData" finished-at="2026-07-12T00:00:53 IST" duration-ms="740" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIntoApplication -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.ExcelTestDataHandling@14cd1699]" started-at="2026-07-12T00:00:53 IST" name="tearDown" finished-at="2026-07-12T00:00:54 IST" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.ExcelTestDataHandling -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
